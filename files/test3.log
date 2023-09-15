@@ -1,0 +1,44 @@
+2023-09-10 10:53:15,594 root INFO this is my info log
+2023-09-10 10:53:36,110 root WARNING this is my warning
+2023-09-10 10:59:46,378 root DEBUG this is the start of my program
+2023-09-10 10:59:46,383 root DEBUG this is the start of my program
+2023-09-10 10:59:46,383 root DEBUG this is the start of my program
+2023-09-10 10:59:46,384 root DEBUG this is the start of my program
+2023-09-10 10:59:46,385 root DEBUG this is the start of my program
+2023-09-10 10:59:46,385 root DEBUG this is the start of my program
+2023-09-10 10:59:46,386 root DEBUG this is the start of my program
+2023-09-10 11:00:17,944 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:00:17,944 root DEBUG this is the value of i 1
+2023-09-10 11:00:17,944 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:00:17,945 root DEBUG this is the value of i 2
+2023-09-10 11:00:17,945 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:00:17,945 root DEBUG this is the value of i 3
+2023-09-10 11:00:17,945 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:00:17,945 root DEBUG this is the value of i 4
+2023-09-10 11:00:17,945 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:00:17,945 root DEBUG this is the value of i [1, 2, 3, 33]
+2023-09-10 11:00:17,945 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:00:17,945 root DEBUG this is the value of i string
+2023-09-10 11:00:17,945 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:00:17,945 root DEBUG this is the value of i name
+2023-09-10 11:02:35,748 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:02:35,749 root DEBUG this is the value of i 1
+2023-09-10 11:02:35,749 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:02:35,749 root DEBUG this is the value of i 2
+2023-09-10 11:02:35,749 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:02:35,749 root DEBUG this is the value of i 3
+2023-09-10 11:02:35,749 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:02:35,749 root DEBUG this is the value of i 4
+2023-09-10 11:02:35,749 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:02:35,749 root DEBUG this is the value of i [1, 2, 3, 33]
+2023-09-10 11:02:35,749 root INFO logging my j 1 and i is [1, 2, 3, 33]
+2023-09-10 11:02:35,749 root INFO logging my j 2 and i is [1, 2, 3, 33]
+2023-09-10 11:02:35,749 root INFO logging my j 3 and i is [1, 2, 3, 33]
+2023-09-10 11:02:35,749 root INFO logging my j 33 and i is [1, 2, 3, 33]
+2023-09-10 11:02:35,750 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:02:35,750 root DEBUG this is the value of i string
+2023-09-10 11:02:35,750 root DEBUG this is the start of my program [1, 2, 3, 4, [1, 2, 3, 33], 'string', 'name']
+2023-09-10 11:02:35,750 root DEBUG this is the value of i name
+2023-09-10 11:28:05,602 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-09-10 11:28:05,604 Comm WARNING No such comm: 478422bc-45cf-4254-8f95-7eb1bb873794
+2023-09-10 11:28:05,605 Comm DEBUG Current comms: []
